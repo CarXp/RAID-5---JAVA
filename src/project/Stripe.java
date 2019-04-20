@@ -20,4 +20,5 @@ public class Stripe extends Raid_defines {
 	public int get_nblocks() {
 		return this.nblocks;
 	}
+	
 }

@@ -2,7 +2,7 @@ package project;
 
 public class Inode_table extends Raid_defines {
 	
-	public String inode_table[] = new String [INODE_TABLE_SIZE]; // la taille du tableau est fixe
+	private String inode_table[] = new String [INODE_TABLE_SIZE]; // la taille du tableau est fixe
 
 	
 	/**Constructeur de class Inode_table
